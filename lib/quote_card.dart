@@ -24,6 +24,7 @@ class QuoteCard extends StatelessWidget {
                 color: Colors.grey[600],
               ),
             ),
+            Text('Maca'),
             SizedBox(
               height: 18,
             ),
